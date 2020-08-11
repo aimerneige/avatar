@@ -2,7 +2,7 @@
 
 ## Preview
 
-![](https://raw.githubusercontent.com/AimerNeige/PicGoData/master/img/AimerNeige.jpg)
+![Profile Picture](https://raw.githubusercontent.com/AimerNeige/PicGoData/master/img/AimerNeige.jpg)
 
 ## About
 
