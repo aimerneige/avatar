@@ -1,5 +1,9 @@
 # My Profile Picture
 
+## Preview
+
+![](https://raw.githubusercontent.com/AimerNeige/PicGoData/master/img/AimerNeige.jpg)
+
 ## About
 
 My own profile picture.
