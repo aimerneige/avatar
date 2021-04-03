@@ -6,7 +6,7 @@
 
 ## About
 
-My own avatar picture.
+My own avatar file.
 
 The main background are from: <https://anime-pictures.net/pictures/view_post/219008>
 
