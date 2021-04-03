@@ -1,4 +1,4 @@
-# My Profile Picture
+# My Avatar Picture
 
 ## Preview
 
@@ -6,7 +6,7 @@
 
 ## About
 
-My own profile picture.
+My own avatar picture.
 
 The main background are from: <https://anime-pictures.net/pictures/view_post/219008>
 
